@@ -9,9 +9,9 @@ I'm João Guilmo, from Chavantes (Brazil). I'm Electronics Engineer graduated fr
 - Power plants :electron:
 - Robotics :robot:
 - Signal processing :sparkles:
-- designing software 
-- hardware
-- firmware
+- Software 
+- Hardware
+- Firmware
 
 
 ### Find me at:
