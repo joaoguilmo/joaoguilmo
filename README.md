@@ -2,12 +2,6 @@
 
 I'm João Guilmo, from Chavantes (Brazil). I'm Electronics Engineer graduated from the Federal University of Technology Paraná.
 
-## Find me at:
-You can reach me 
-
-[<img align="left" alt="gzalo | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/32/174/174857.png" />][linkedin]
-
-
 ### Interests :boom:
 
 - Computer networks 🖧
@@ -18,6 +12,13 @@ You can reach me
 - designing software 
 - hardware
 - firmware
+
+
+### Find me at:
+You can reach me 
+
+[<img align="left" alt="gzalo | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/32/174/174857.png" />][linkedin]
+
 
 
 [linkedin]: https://www.linkedin.com/in/joão-guilmo-4579131b4/
